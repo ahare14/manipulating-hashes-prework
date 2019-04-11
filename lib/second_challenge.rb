@@ -7,8 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.vaules
-
-
-
+  list = groceries.vaules
+  list
 end
